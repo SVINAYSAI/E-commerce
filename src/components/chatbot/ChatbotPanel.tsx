@@ -49,7 +49,7 @@ const ChatbotPanel: React.FC = () => {
       setTimeout(() => {
         addMessage({ 
           role: 'bot', 
-          text: "Hey there! 👋 I'm the GLOSS assistant. I can help you find the perfect leggings, tights, or shoes for any occasion. What brings you here today?" 
+          text: "Hey there! 👋 I'm the LECHERY assistant. I can help you find the perfect shiny tights, pantyhose, or thigh-highs for any occasion. What brings you here today?" 
         });
         setQuickReplies(["Find my size", "View new drops", "Track my order", "Best sellers", "Bundle deals"]);
         setHasGreeted(true);
@@ -70,10 +70,10 @@ const ChatbotPanel: React.FC = () => {
       <div className="bg-gloss-rose p-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
-            <span className="font-display text-gloss-rose text-[18px]">G</span>
+            <span className="font-display text-gloss-rose text-[18px]">L</span>
           </div>
           <div>
-            <h3 className="font-body font-medium text-white text-[14px]">GLOSS Assistant</h3>
+            <h3 className="font-body font-medium text-white text-[14px]">LECHERY Assistant</h3>
             <p className="text-white/70 text-[11px]">Online · Usually replies instantly</p>
           </div>
         </div>

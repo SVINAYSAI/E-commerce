@@ -74,7 +74,7 @@ const EmailSignup: React.FC = () => {
                     You're in! Check your inbox.
                   </p>
                   <p className="text-white/70 text-[12px] font-body">
-                    Welcome to the GLOSS circle 💖
+                    Welcome to the LECHERY circle 💖
                   </p>
                 </div>
               </div>

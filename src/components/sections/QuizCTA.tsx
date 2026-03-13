@@ -25,7 +25,7 @@ const QuizCTA: React.FC = () => {
               NOT SURE WHERE TO START?
             </h2>
             <p className="text-white/70 font-body text-[16px] mt-6 max-w-lg leading-relaxed">
-              Answer 4 quick questions. We'll match you to your perfect legging, tight, or shoe in under 60 seconds.
+              Answer 4 quick questions. We'll match you to your perfect tights, pantyhose, or thigh-highs in under 60 seconds.
             </p>
             <a 
               href="#"

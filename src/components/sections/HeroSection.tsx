@@ -27,7 +27,7 @@ const HeroSection: React.FC = () => {
             loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           }`}
         >
-          NEW SEASON DROP IS HERE
+          NEW SEASON — THE #1 SHINY TIGHTS IN AMERICA
         </p>
 
         {/* Headline */}
@@ -37,7 +37,7 @@ const HeroSection: React.FC = () => {
               loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}
           >
-            WEAR
+            SHINE
           </h1>
           <h1 
             className={`font-display text-[60px] sm:text-[80px] lg:text-[120px] leading-none text-transparent transition-all duration-700 delay-200 ${
@@ -45,14 +45,14 @@ const HeroSection: React.FC = () => {
             }`}
             style={{ WebkitTextStroke: '2px #0D0D0D' }}
           >
-            THE
+            YOUR
           </h1>
           <h1 
             className={`font-display text-[60px] sm:text-[80px] lg:text-[120px] leading-none text-gloss-rose transition-all duration-700 delay-300 ${
               loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}
           >
-            SHINE
+            LEGS
           </h1>
         </div>
 
@@ -62,7 +62,7 @@ const HeroSection: React.FC = () => {
             loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           }`}
         >
-          Premium legwear & footwear that turns every sidewalk into a runway. Built to last. Made to shine.
+          Shiny tights, glossy pantyhose & sheer bodystockings — loved by Doja Cat. Ladder-resistant, buttery-smooth, and designed to turn heads.
         </p>
 
         {/* CTA Row */}
@@ -91,19 +91,19 @@ const HeroSection: React.FC = () => {
             loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           }`}
         >
-          <span className="bg-gloss-offwhite px-3 py-1.5 rounded-full">Free shipping $40+</span>
+          <span className="bg-gloss-offwhite px-3 py-1.5 rounded-full">Free shipping on all orders</span>
           <span className="text-gloss-rose">·</span>
-          <span className="bg-gloss-offwhite px-3 py-1.5 rounded-full">Easy 30-day returns</span>
+          <span className="bg-gloss-offwhite px-3 py-1.5 rounded-full">Buy 2, Get 1 Free</span>
           <span className="text-gloss-rose">·</span>
-          <span className="bg-gloss-offwhite px-3 py-1.5 rounded-full">10K+ reviews</span>
+          <span className="bg-gloss-offwhite px-3 py-1.5 rounded-full">100K+ happy customers</span>
         </div>
       </div>
 
       {/* Right Column */}
       <div className="w-full lg:w-[45%] relative h-[50vh] lg:h-screen">
         <img
-          src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80"
-          alt="Fashion model"
+          src="/lechery-hero.png"
+          alt="LECHERY Shiny Tights"
           className="w-full h-full object-cover"
         />
         

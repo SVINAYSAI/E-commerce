@@ -11,38 +11,38 @@ interface LookbookImage {
 const lookbookImages: LookbookImage[] = [
   {
     id: 1,
-    url: "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80",
-    product: "The Runway Sheer",
+    url: "https://cdn.shopify.com/s/files/1/0403/1342/1976/files/1_56486e82-3044-48fb-bea2-2f8048bcdbc5.jpg?v=1766714650",
+    product: "Lustrous Semi-Opaque Pantyhose",
     span: "row-span-2",
   },
   {
     id: 2,
-    url: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=600&q=80",
-    product: "The High-Rise Silk",
+    url: "https://cdn.shopify.com/s/files/1/0403/1342/1976/files/SKU12012-WHITE-1.jpg?v=1766714170",
+    product: "Lustrous Sheer Thigh-Highs",
     span: "",
   },
   {
     id: 3,
-    url: "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=600&q=80",
-    product: "The Body Veil",
+    url: "https://cdn.shopify.com/s/files/1/0403/1342/1976/files/SKU10003-NATURAL-6.jpg?v=1766715744",
+    product: "Lustrous Silky Bodystocking",
     span: "",
   },
   {
     id: 4,
-    url: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&q=80",
-    product: "The Power Legging",
+    url: "https://cdn.shopify.com/s/files/1/0403/1342/1976/files/1_fa0567fd-846c-4210-a875-888118848d71.jpg?v=1766715455",
+    product: "Lustrous Shiny Sheer Pantyhose",
     span: "row-span-2",
   },
   {
     id: 5,
-    url: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=600&q=80",
-    product: "The Gloss Heel",
+    url: "https://cdn.shopify.com/s/files/1/0403/1342/1976/files/SKU12012-PURPLE-6.jpg?v=1766714170",
+    product: "Lustrous Thigh-Highs Purple",
     span: "",
   },
   {
     id: 6,
-    url: "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?w=600&q=80",
-    product: "The Barely-There Boot",
+    url: "https://cdn.shopify.com/s/files/1/0403/1342/1976/files/SKU15002-WHITE-3.jpg?v=1766715882",
+    product: "Lustrous Sheer Socks",
     span: "",
   },
 ];
@@ -57,7 +57,7 @@ const LookbookSection: React.FC = () => {
             STYLED BY YOU
           </h2>
           <p className="font-body text-[16px] text-gloss-grey mt-3">
-            Tag us @weargloss to be featured
+            Tag us @lechery.official to be featured
           </p>
         </div>
 

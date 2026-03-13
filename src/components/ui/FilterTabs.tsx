@@ -7,12 +7,10 @@ interface Category {
 
 const categories: Category[] = [
   { id: 'all', label: 'ALL' },
-  { id: 'tights', label: 'TIGHTS' },
-  { id: 'leggings', label: 'LEGGINGS' },
+  { id: 'tights', label: 'TIGHTS & HOSIERY' },
   { id: 'thigh-highs', label: 'THIGH-HIGHS' },
-  { id: 'bodystocking', label: 'BODYSTOCKING' },
-  { id: 'shoes', label: 'SHOES' },
-  { id: 'socks', label: 'SOCKS' },
+  { id: 'bodystocking', label: 'BODYSTOCKINGS' },
+  { id: 'socks', label: 'SOCKS & KNEE-HIGHS' },
 ];
 
 interface FilterTabsProps {

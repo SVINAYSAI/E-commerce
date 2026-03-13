@@ -9,7 +9,7 @@ export const chatbotQA: ChatbotQA[] = [
   {
     id: "greeting",
     keywords: ["hi","hello","hey","hiya","howdy","good morning","good evening","sup","what's up"],
-    response: "Hey there! 💖 Welcome to GLOSS™! I'm here to help you find your perfect style. Are you shopping for leggings, tights, shoes, or something else?",
+    response: "Hey there! 💖 Welcome to LECHERY®! I'm here to help you find your perfect style. Are you shopping for tights, pantyhose, thigh-highs, or something else?",
     quickReplies: ["Leggings","Tights & hosiery","Shoes","Show bestsellers"]
   },
   {
@@ -88,7 +88,7 @@ export const chatbotQA: ChatbotQA[] = [
     id: "sustainable",
     keywords: ["sustainable","eco","ethical","environment","vegan","cruelty","responsible","green","planet"],
     response: "We care about doing things right 🌍\n\n• All packaging is 100% recycled and plastic-free\n• Our fabrics are OEKO-TEX certified (no harmful chemicals)\n• We offset carbon emissions on every shipment\n• No animal-derived materials — all products are vegan\n\nWe're not perfect but we're on the journey!",
-    quickReplies: ["More about GLOSS","Shop responsibly","Packaging info","Our story"]
+    quickReplies: ["More about LECHERY","Shop responsibly","Packaging info","Our story"]
   },
   {
     id: "quiz",

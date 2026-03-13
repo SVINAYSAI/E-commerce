@@ -35,8 +35,8 @@ const Navbar: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 h-full flex items-center justify-between">
           {/* Logo */}
           <a href="#" className="font-display text-3xl text-gloss-black flex items-start">
-            GLOSS
-            <span className="text-gloss-rose text-[10px] ml-0.5 -mt-1">™</span>
+            LECHERY
+            <span className="text-gloss-rose text-[10px] ml-0.5 -mt-1">®</span>
           </a>
 
           {/* Desktop Nav Links */}
@@ -98,7 +98,7 @@ const Navbar: React.FC = () => {
           <div className="flex flex-col h-full">
             <div className="flex items-center justify-between p-4 border-b border-gloss-light">
               <span className="font-display text-2xl text-gloss-black">
-                GLOSS<span className="text-gloss-rose text-[10px]">™</span>
+                LECHERY<span className="text-gloss-rose text-[10px]">®</span>
               </span>
               <button onClick={() => setMobileMenuOpen(false)}>
                 <X size={24} className="text-gloss-black" />

@@ -15,11 +15,11 @@ const Footer: React.FC = () => {
           {/* Brand Column */}
           <div className="col-span-2 md:col-span-3 lg:col-span-1">
             <a href="#" className="font-display text-2xl text-gloss-rose flex items-start">
-              GLOSS
-              <span className="text-white text-[10px] ml-0.5 -mt-1">™</span>
+              LECHERY
+              <span className="text-white text-[10px] ml-0.5 -mt-1">®</span>
             </a>
             <p className="text-white/60 font-body text-[14px] mt-3 max-w-xs">
-              Wear the shine. Own the room. Premium legwear & footwear for the fearless.
+              Your destination for shiny tights, glossy pantyhose & sheer bodystockings. Designed for women who crave shine and confidence.
             </p>
             
             {/* Social Icons */}
@@ -111,7 +111,7 @@ const Footer: React.FC = () => {
         {/* Bottom Row */}
         <div className="border-t border-white/10 pt-8 mt-12 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-white/40 font-body text-[12px]">
-            © 2025 GLOSS™ All rights reserved.
+            © 2026 LECHERY® All rights reserved.
           </p>
           
           {/* Payment Methods */}
